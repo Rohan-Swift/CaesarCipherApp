@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Encrypt</string>
+    <string name="enter_text">Enter text</string>
+    <string name="choose">Choose:</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="enter_digit">Enter digit</string>
+    <string name="submit">Submit</string>
+    <string name="result">Result:</string>
+    <string name="enter_text0">Enter Text:</string>
+    <string name="enter_digit0">Enter Digit:</string>
+    <string name="light_mode">Light Mode</string>
+</resources>
